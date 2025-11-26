@@ -1,0 +1,9 @@
+{
+	"name": "diningsetsadf",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3326f30f-cc32-4f54-8990-c6ddb96453fa",
+		"tenantId": "ea5606b1-0938-4864-b5a8-1dd82ed37df3"
+	}
+}
