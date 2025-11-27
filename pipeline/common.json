@@ -16,7 +16,7 @@
 				"userProperties": [],
 				"typeProperties": {
 					"dataflow": {
-						"referenceName": "07_aggregatedf",
+						"referenceName": "09_alterrowdf",
 						"type": "DataFlowReference"
 					},
 					"compute": {
